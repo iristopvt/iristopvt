@@ -11,4 +11,6 @@
 ### Project experience
 
 - 2024.08 ~ 2024.08: [YPK_Team_RPG](https://github.com/iristopvt/YPK_Team_RPG)
-- 2024.09 ~ 2024.11: 
+- 2024.09 ~ 2024.11: [YP2K_Team_RPG](https://github.com/iristopvt/YP2K_Team_RPG)
+
+- 2025.03 ~ 2025.03:
