@@ -1,16 +1,14 @@
-## Hi there 👋
+# 포트폴리오
 
-<!--
-**iristopvt/iristopvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills  
+![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project experience
+
+- 2024.08 ~ 2024.08: 
+- 2024.09 ~ 2024.11: 
