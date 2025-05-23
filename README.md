@@ -10,5 +10,5 @@
 
 ### Project experience
 
-- 2024.08 ~ 2024.08: 
+- 2024.08 ~ 2024.08: [YPK_Team_RPG](https://github.com/yourusername/yourrepo](https://github.com/iristopvt/YPK_Team_RPG )
 - 2024.09 ~ 2024.11: 
